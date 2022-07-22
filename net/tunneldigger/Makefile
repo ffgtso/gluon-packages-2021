@@ -4,9 +4,9 @@ PKG_NAME:=tunneldigger
 PKG_RELEASE:=1
 
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=https://github.com/wlanslovenija/tunneldigger.git
-PKG_SOURCE_DATE:=2020-05-17
-PKG_SOURCE_VERSION:=8995046a2ba8f111391e01e6bb38a352c0cedaa1
+PKG_SOURCE_URL:=https://github.com/ffgtso/tunneldigger.git
+PKG_SOURCE_DATE:=2022-07-21
+PKG_SOURCE_VERSION:=587f9f2da97f4f6c7dca3f124ceb8b6f85842148
 
 include $(INCLUDE_DIR)/package.mk
 include $(INCLUDE_DIR)/cmake.mk
